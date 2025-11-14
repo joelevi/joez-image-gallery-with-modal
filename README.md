@@ -22,6 +22,6 @@ Lightweight JS module for Bootstrap-powered image modals. Dynamically creates HT
 
 ```html
 <div class="gallery">
-  <img src="image1.jpg" alt="Sunset" class="modal-trigger img-fluid" data-bs-toggle="modal" data-bs-target="#imageModal">
-  <img src="image2.jpg" alt="Mountains" class="modal-trigger img-fluid" data-bs-toggle="modal" data-bs-target="#imageModal">
+  <img src="image1.jpg" alt="Sunset" class="modal-trigger img-fluid" data-bs-toggle="modal" data-bs-target="#imageModal" loading="auto" />
+  <img src="image2.jpg" alt="Mountains" class="modal-trigger img-fluid" data-bs-toggle="modal" data-bs-target="#imageModal" loading="auto" />
 </div>
