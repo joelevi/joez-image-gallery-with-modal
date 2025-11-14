@@ -1,11 +1,12 @@
 # joez-image-gallery-with-modal
 # Image Modal Gallery
 
+## Description
+Lightweight JS module for Bootstrap-powered image modals. Dynamically creates HTML, styles, and interactions for click-to-enlarge galleries in `.gallery` containers.
+
 ## Dependencies
  - [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-blue?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  - [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-blueviolet?style=flat-square)](https://getbootstrap.com/)
-
-Lightweight JS module for Bootstrap-powered image modals. Dynamically creates HTML, styles, and interactions for click-to-enlarge galleries in `.gallery` containers.
 
 ## Features
 
