@@ -29,7 +29,7 @@ Lightweight JS module for Bootstrap-powered image modals. Dynamically creates HT
 
 ## Full HTML Page
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
